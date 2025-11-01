@@ -83,6 +83,5 @@ else:
 
 ![image](https://github.com/user-attachments/assets/5aabdecf-7f9a-4943-924c-3e0fc0332fd0)
 
-
 ## RESULT:
 Thus, a Sudoku solver using the backtracking algorithm is implemented for the given Sudoku puzzle.
